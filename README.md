@@ -1,2 +1,2 @@
-# hello_world
-welcome to github
+#hello
+print("welcome to the world")
